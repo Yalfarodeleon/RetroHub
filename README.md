@@ -20,7 +20,7 @@
 | :----------: | :-----------: | :-------------: | :------------: |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
-|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   Jason Chan   | jchan31@mail.sfsu.edu |      snowblind7899       |  Back End Lead   |
 |   Deep Dhorajiya   | ddhorajiya@mail.sfsu.edu |      ddhorajiya       |  Scrum Master  |
 |   Om Dankhara   | odankhara@sfsu.edu |      odankhrara       | Github Master   |
 
