@@ -22,7 +22,7 @@
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
-|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   Om Dankhara   | odankhara@sfsu.edu |      odankhrara       | Github Master   |
 
 **NO code should be stored in the root of your repository. You may rename the
 `application/` folder to your team's application name if you'd like, but all the
