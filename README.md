@@ -21,7 +21,7 @@
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
 |   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
-|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   Deep Dhorajiya   | ddhorajiya@mail.sfsu.edu |      ddhorajiya       |  Scrum Master  |
 |   Om Dankhara   | odankhara@sfsu.edu |      odankhrara       | Github Master   |
 
 **NO code should be stored in the root of your repository. You may rename the
