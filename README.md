@@ -19,7 +19,7 @@
 | Student Name | Student Email | GitHub Username | Student's role |
 | :----------: | :-----------: | :-------------: | :------------: |
 |   Ysidro Alfaro De Leon   | yalfarodeleon@sfsu.edu |      Yalfarodeleon       |  Team Leader   |
-|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   Jhon Raimund Suelto Aclan   | jaclan2@fsu.edu |      jhonaclan       |  Front End Lead   |
 |   Jason Chan   | jchan31@mail.sfsu.edu |      snowblind7899       |  Back End Lead   |
 |   Deep Dhorajiya   | ddhorajiya@mail.sfsu.edu |      ddhorajiya       |  Scrum Master  |
 |   Om Dankhara   | odankhara@sfsu.edu |      odankhrara       | Github Master   |
