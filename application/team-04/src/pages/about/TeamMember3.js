@@ -7,7 +7,7 @@ function TeamMember3() {
         <h1 className="about-title">Jason Chan</h1>
         <img className="about-image" src="/path/to/jason-photo.jpg" alt="Jason's Photo" />
         <p className="about-bio">
-          Insert Jason's biography or fun facts here.
+          Senior at San Francisco State University, Computer Science major. Currently managing the back-end for this web app while learning about all the aspects that bring it to life.
         </p>
       </div>
     );
