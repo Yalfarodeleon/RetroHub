@@ -1,0 +1,36 @@
+/* Styles for the header component */
+.App-header {
+  background-color: #333;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60px;
+}
+
+.App-header li {
+  display: inline;
+}
+
+.App-header a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  margin: 0 20px;
+}
+
+.App-header li span {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  margin: 0 20px;
+}
+
+.App-header a:hover {
+  color: #ff5733;
+}
+
+.App-header li span:hover {
+  color: #ff5733;
+}
