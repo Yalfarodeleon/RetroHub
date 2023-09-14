@@ -1,0 +1,44 @@
+/* Global styles for all about me pages */
+.about-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .about-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .about-image {
+    max-width: 300px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .about-bio {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+  }
+  
+  /* Specific styles for individual team members */
+  .team-member1 .about-title {
+    color: #007bff;
+  }
+  .team-member2 .about-title {
+    color: #ff6600;
+  }
+  .team-member3 .about-title {
+    color: #ff0066;
+  }
+  .team-member4 .about-title {
+    color: #00cc66;
+  }
+  .team-member5 .about-title {
+    color: #ff3399;
+  }
+  
