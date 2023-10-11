@@ -13,6 +13,10 @@ app.use(express.json());
 // Load the /posts routes
 //app.use("/posts", posts);
 
+app.get('*', (req,res) => {
+  res.sendFile(path.join(__dirname, 'build/index.html'));
+ });
+
 // Global error handling
 app.use((err, _req, res, next) => {
   res.status(500).send("Uh oh! An unexpected error occured.")
