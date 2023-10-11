@@ -14,6 +14,7 @@ router.get("/", async (req, res) => {
   res.send(results).status(200);
 });
 
+<<<<<<< Updated upstream
 // Get a single post
 router.get("/:id", async (req, res) => {
   let collection = await db.collection("posts");
@@ -23,5 +24,7 @@ router.get("/:id", async (req, res) => {
   if (!result) res.send("Not found").status(404);
   else res.send(result).status(200);
 });
+=======
+>>>>>>> Stashed changes
 
 export default router;

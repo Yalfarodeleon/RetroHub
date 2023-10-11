@@ -11,7 +11,15 @@ app.use(cors());
 app.use(express.json());
 
 // Load the /posts routes
+<<<<<<< Updated upstream
 app.use("/posts", posts);
+=======
+app.use("./routes/posts", posts);
+
+app.get('*', (req,res) => {
+  res.sendFile(path.join(__dirname, 'build/index.html'));
+ });
+>>>>>>> Stashed changes
 
 // Global error handling
 app.use((err, _req, res, next) => {
