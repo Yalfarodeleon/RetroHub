@@ -15,11 +15,6 @@ app.use((req,res,next)=> {
   next()
 });
 
-// Load the /posts routes
-app.get("/", (req,res) => {
-  res.json({msg: "loaded in"});
-});
-
 app.use("/api/posts",postRoute);
 
 mongoose.connect(process.env.mongo_url)

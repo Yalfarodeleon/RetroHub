@@ -16,4 +16,4 @@ const postSchema = new Schema({
     }
 }, {timestamps: true});
 
-module.exports = mongoose.model("post_format",postSchema);
+module.exports = mongoose.model("posts",postSchema);

@@ -1,17 +1,12 @@
 const express = require("express");
-const { createPost } = require("../controllers/postController");
+const { getPosts,getPostByID,createPost } = require("../controllers/postController");
 const router = express.Router();
 
 // Get a list of posts
-router.route("/").get(function (req, res) {
-  res.json({yeah: "nah"})
-});
-
+router.get("/",getPosts);
 
 // Get a single post
-router.get("/:id", async (req, res) => {
-
-});
+router.get("/:id",getPostByID);
 
 // Post post
 router.post("/", createPost)
