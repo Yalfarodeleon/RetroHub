@@ -1,6 +1,6 @@
 # CSC648-fa23-01-Team04
 
-**Application URL: <https://example.com>**
+Application URL: http://34.224.78.80/ (tentative)
 
 ## Before completing Milestone 0
 
