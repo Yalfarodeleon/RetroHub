@@ -2,6 +2,13 @@ import React from "react";
 import './home.css'
 
 function Home() {
+  
+  async function fetchpostJSON() {
+    const response = await fetch('/posts');
+    const post = await response.json();
+    return post;
+  }
+
   return (
     <div className="home">
       <h1>Welcome to Our Website</h1>
